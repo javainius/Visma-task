@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "0",
+    "Name": "Harry Potter",
+    "Author": "Rowling",
+    "Category": "Magic",
+    "Language": "En",
+    "PublicationDate": "1997-01-01",
+    "ISBN": "9986-02-919-8",
+    "BookHolder": null,
+    "WhenTaken": null,
+    "EstimatedReturn": null
+  },
+  {
+    "Id": "1",
+    "Name": "The Lord of the Rings",
+    "Author": "Tolkin",
+    "Category": "Magic",
+    "Language": "En",
+    "PublicationDate": "1954-01-01",
+    "ISBN": "0-333-29034-8",
+    "BookHolder": null,
+    "WhenTaken": null,
+    "EstimatedReturn": null
+  },
+  {
+    "Id": "2",
+    "Name": "Range",
+    "Author": "David Epstein",
+    "Category": "Sociology",
+    "Language": "En",
+    "PublicationDate": "2019-01-01",
+    "ISBN": "978-1-5098-4349-7",
+    "BookHolder": null,
+    "WhenTaken": null,
+    "EstimatedReturn": null
+  },
+  {
+    "Id": "3",
+    "Name": "Loosing my virginity",
+    "Author": "Richard Branson",
+    "Category": "Biography",
+    "Language": "En",
+    "PublicationDate": "1998-01-01",
+    "ISBN": "0-7535-1020-0",
+    "BookHolder": null,
+    "WhenTaken": null,
+    "EstimatedReturn": null
+  }
+]
